@@ -7,4 +7,4 @@ To improve the algorithm that classifies drugs based on their biological activit
 ## Result 
 By November 20th, 2020, there are 4035 teams participating in this competition. We ranked 505th (Top 12.5%) in this competition.
 
-<img src="https://github.com/bozliu/Mechanisms-of-Action-Prediction/blob/main/moa-rankgauss-pca-nn.ipynb" width="100%">
+<img src="https://github.com/bozliu/Mechanisms-of-Action-Prediction/blob/main/kaggle%20ranking%20screenshot.png">
